@@ -49,3 +49,5 @@ _
 bag/templates,e/9/e9a7eeedb804d0685ff2963de2b7f2e6679e0add
 F
 bag/templates/bag.html,c/7/c77e44738b8bca85cc2e8f734a6dd69016d29772
+?
+bag/contexts.py,f/7/f789cdb0d1e4f42b2a63050672c76bff71806e6c
