@@ -39,3 +39,13 @@ N
 home/templates/home/index.html,a/4/a455900950966c4a8b5c5bee3780661c825b89ed
 _
 /products/templates/products/product_detail.html,0/a/0aba1dc1eaa615ec2fa034d6709e2fa9abdbd98f
+<
+bag/views.py,3/a/3a0dc330784aacb25ef356ce2a92ef158fe9ab56
+=
+bag/models.py,b/c/bcb1880f4c298c2bd1892daeb29ca09e64442644
+;
+bag/urls.py,3/9/3905cfcc4b62ea0f421706b9daa4e39ca3aee91c
+=
+bag/templates,e/9/e9a7eeedb804d0685ff2963de2b7f2e6679e0add
+F
+bag/templates/bag.html,c/7/c77e44738b8bca85cc2e8f734a6dd69016d29772
