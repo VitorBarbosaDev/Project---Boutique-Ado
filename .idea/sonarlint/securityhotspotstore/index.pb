@@ -35,3 +35,7 @@ A
 home/urls.py,f/9/f9782bad13aa4d6aa4b8882f98cae6053daa8556
 Y
 )products/templates/products/products.html,a/0/a082e6e7f734e989b69b025a1ce153b41f514f14
+N
+home/templates/home/index.html,a/4/a455900950966c4a8b5c5bee3780661c825b89ed
+_
+/products/templates/products/product_detail.html,0/a/0aba1dc1eaa615ec2fa034d6709e2fa9abdbd98f
