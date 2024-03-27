@@ -11,3 +11,17 @@ H
 Boutique_Ado/settings.py,5/f/5f6786f57fdb0d2fcdf8776b70cd410058a7e82b
 D
 Boutique_Ado/urls.py,8/8/889c7d714aec9ae2f3c9d1f1d49fa20332f6350b
+P
+ templates/includes/main-nav.html,8/d/8d16971be1a9dc5a591f6c755d4ac8677c65bcec
+Y
+)templates/includes/mobile-top-header.html,5/3/533beff1f6514f3c8b626635aa3649225c916eb9
+O
+products/fixtures/products.json,4/a/4a2cb83e39f70d3d0eaff21da9df666f84cb87b0
+Q
+!products/fixtures/categories.json,d/b/db0e48a518bb2aae5fa4c28268626956b1649d21
+B
+products/models.py,5/b/5b4db18331b8f185b9797bbf6cdc7c6da8f6e904
+@
+products/apps.py,4/7/47f9e288a5699272d2f47a8a37d61a4bc2291229
+A
+products/admin.py,1/e/1ea3f0cae641cc6a7921f2ebb3dd67fca093dc01
