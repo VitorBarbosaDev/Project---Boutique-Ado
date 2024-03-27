@@ -25,3 +25,13 @@ B
 products/apps.py,4/7/47f9e288a5699272d2f47a8a37d61a4bc2291229
 A
 products/admin.py,1/e/1ea3f0cae641cc6a7921f2ebb3dd67fca093dc01
+=
+home/views.py,8/a/8a8ef48d8177b42e17ba0f631c729a443109261d
+A
+products/views.py,e/7/e7c0df80dbe407ceab2293cb3ce846b3cc0b1733
+@
+products/urls.py,c/3/c3cf7c6b7cba09d947e60eed5c7b4eb3b2f3ccdf
+<
+home/urls.py,f/9/f9782bad13aa4d6aa4b8882f98cae6053daa8556
+Y
+)products/templates/products/products.html,a/0/a082e6e7f734e989b69b025a1ce153b41f514f14
