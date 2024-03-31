@@ -88,3 +88,15 @@ A
 checkout/admin.py,f/c/fcaf60ec5c130449c3163479e8f24c26917f6986
 A
 checkout/forms.py,d/b/dbe973375479df08b23d92f0f8a899801eaf28da
+B
+profiles/models.py,6/b/6b92396b89df4e3cb803df629dde0a0301c46417
+A
+profiles/tests.py,5/b/5b6ee26c81e6c5a847aa6c9f0397152aaabe5370
+A
+profiles/views.py,8/1/8153c148f7fb5a3c46c04974677faef4afe16a9f
+@
+profiles/urls.py,8/e/8e0300d357824cc9bece2020bc852a224f5c35b0
+Y
+)profiles/templates/profiles/profiles.html,d/2/d26e5e0653a0bbef46317b92c2ac3d3bd989296b
+X
+(profiles/static/profiles/css/profile.css,c/7/c707cdbcac32b82bd5d2a08ef170299a802eda72
