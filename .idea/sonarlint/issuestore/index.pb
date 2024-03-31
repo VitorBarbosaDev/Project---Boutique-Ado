@@ -100,3 +100,11 @@ Y
 )profiles/templates/profiles/profiles.html,d/2/d26e5e0653a0bbef46317b92c2ac3d3bd989296b
 X
 (profiles/static/profiles/css/profile.css,c/7/c707cdbcac32b82bd5d2a08ef170299a802eda72
+K
+templates/allauth/base.html,0/9/0911e67c98bdf24f71322098b71261eb481510f0
+S
+#templates/allauth/account/base.html,6/6/66c3ecc501cf1dbf0855aec62690773369caa8f6
+T
+$templates/allauth/account/login.html,9/1/91fd985c16073876666bf3b661c7cb666be5364b
+Y
+)profiles/templates/profiles /profile.html,8/b/8b2f90fcb08dbc8f59c8f1d8f6df9c6693da5e5d
