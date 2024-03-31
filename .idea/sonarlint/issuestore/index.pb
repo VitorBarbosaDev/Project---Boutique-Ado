@@ -47,7 +47,13 @@ _
 bag/urls.py,3/9/3905cfcc4b62ea0f421706b9daa4e39ca3aee91c
 =
 bag/templates,e/9/e9a7eeedb804d0685ff2963de2b7f2e6679e0add
-F
-bag/templates/bag.html,c/7/c77e44738b8bca85cc2e8f734a6dd69016d29772
 ?
 bag/contexts.py,f/7/f789cdb0d1e4f42b2a63050672c76bff71806e6c
+J
+bag/templates/bag/bag.html,1/a/1a65a6eb704e34099c01fa383d3e729cdf2159ff
+U
+%checkout/static/js/stripe_elements.js,2/2/22cbbf42d218a1c6ea52bbcbaed93d8051e7f40a
+P
+ checkout/static/css/checkout.css,7/f/7fa1f0a0c362d0a3d4209a6252c930cbda523d76
+Y
+)checkout/templates/checkout/checkout.html,e/2/e224a29857d6ebcbc79625a6fe1f218ba932d782
