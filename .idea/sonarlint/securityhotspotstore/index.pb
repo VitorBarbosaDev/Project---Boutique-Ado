@@ -57,3 +57,12 @@ P
  checkout/static/css/checkout.css,7/f/7fa1f0a0c362d0a3d4209a6252c930cbda523d76
 Y
 )checkout/templates/checkout/checkout.html,e/2/e224a29857d6ebcbc79625a6fe1f218ba932d782
+^
+.checkout/static/checkout/js/stripe_elements.js,7/5/752b78d4ac19b25667123aaa49f1c645baba3871
+A
+checkout/views.py,2/5/25f8ffbcf14a174cabd14ec3a946b3aec81ad23f
+4
+.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
