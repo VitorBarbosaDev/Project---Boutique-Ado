@@ -66,3 +66,15 @@ A
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+@
+checkout/urls.py,c/c/cc54c92f7640a5e52055d9e33a8c7354f9c46c4e
+a
+1checkout/templates/checkout/checkout_success.html,8/7/87b27322408850a12a5040ee8fa71d7ae4787e50
+D
+checkout/__init__.py,2/7/272d5ee392c9ad9ac4b0082d461ae6b57dce7b53
+@
+checkout/apps.py,c/6/c6750cb5085684920a2c27647eca5bc6b9562f12
+B
+checkout/models.py,a/0/a076a71b18336bd01eb18503057e03f735ae4e2d
+C
+checkout/signals.py,1/4/1404cc600c2b86e003f89e6f011bb9546681d19b
