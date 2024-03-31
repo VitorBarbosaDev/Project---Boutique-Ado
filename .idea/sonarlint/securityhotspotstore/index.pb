@@ -78,3 +78,5 @@ B
 checkout/models.py,a/0/a076a71b18336bd01eb18503057e03f735ae4e2d
 C
 checkout/signals.py,1/4/1404cc600c2b86e003f89e6f011bb9546681d19b
+Y
+)checkout/static/checkout/css/checkout.css,e/2/e2f4d76e0fc8dbbde33011d02113c8d90adb6ab2
