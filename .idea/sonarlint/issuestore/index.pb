@@ -116,3 +116,5 @@ A
 -profiles/static/profiles/js /countryfield.js ,8/c/8c36e4005b522e3e0295ab9140d680f31f0789d0
 \
 ,templates/includes/toasts/toast_success.html,1/c/1c823e289b177f5e7a4f0b22aec2cb993ad3fa6c
+A
+profiles/admin.py,f/6/f64809e53f0986507c49eace140d722499f4795a
