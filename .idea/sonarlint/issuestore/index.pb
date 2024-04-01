@@ -128,3 +128,5 @@ A
 ,products/templates/products/add_product.html,9/4/944304cb17ebb57945ae4641038bd2d874010644
 ]
 -products/templates/products/edit_product.html,f/c/fc1cd2d24e8aa42f982354f87a0082bee64424fc
+A
+products/tests.py,7/3/7320e14c1d2aebd2a97005b341ebdaa5c95a66e9
