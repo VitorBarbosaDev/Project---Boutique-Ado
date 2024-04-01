@@ -124,3 +124,5 @@ Icheckout/static/checkout/confirmation_emails /confirmation_email_body.txt,1/d/
 Mcheckout/static/checkout/confirmation_emails /confirmation_email_subject.txt ,2/5/25994ade207fcb0604219951cbdd82d4103e4cf6
 A
 products/forms.py,1/8/18290037a6c6f23e022d2baa2e1e1ce35b23ac91
+\
+,products/templates/products/add_product.html,9/4/944304cb17ebb57945ae4641038bd2d874010644
