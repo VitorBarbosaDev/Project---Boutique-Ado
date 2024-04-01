@@ -110,10 +110,6 @@ A
 ,templates/includes/toasts/toast_success.html,1/c/1c823e289b177f5e7a4f0b22aec2cb993ad3fa6c
 A
 profiles/admin.py,f/6/f64809e53f0986507c49eace140d722499f4795a
-y
-Icheckout/static/checkout/confirmation_emails /confirmation_email_body.txt,1/d/1dd047908b5e4d76af0e36564d266d9fd3027c3e
-}
-Mcheckout/static/checkout/confirmation_emails /confirmation_email_subject.txt ,2/5/25994ade207fcb0604219951cbdd82d4103e4cf6
 A
 products/forms.py,1/8/18290037a6c6f23e022d2baa2e1e1ce35b23ac91
 \
