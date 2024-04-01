@@ -51,10 +51,6 @@ _
 bag/contexts.py,f/7/f789cdb0d1e4f42b2a63050672c76bff71806e6c
 J
 bag/templates/bag/bag.html,1/a/1a65a6eb704e34099c01fa383d3e729cdf2159ff
-U
-%checkout/static/js/stripe_elements.js,2/2/22cbbf42d218a1c6ea52bbcbaed93d8051e7f40a
-P
- checkout/static/css/checkout.css,7/f/7fa1f0a0c362d0a3d4209a6252c930cbda523d76
 Y
 )checkout/templates/checkout/checkout.html,e/2/e224a29857d6ebcbc79625a6fe1f218ba932d782
 ^
@@ -96,8 +92,6 @@ A
 profiles/views.py,8/1/8153c148f7fb5a3c46c04974677faef4afe16a9f
 @
 profiles/urls.py,8/e/8e0300d357824cc9bece2020bc852a224f5c35b0
-Y
-)profiles/templates/profiles/profiles.html,d/2/d26e5e0653a0bbef46317b92c2ac3d3bd989296b
 X
 (profiles/static/profiles/css/profile.css,c/7/c707cdbcac32b82bd5d2a08ef170299a802eda72
 K
@@ -106,8 +100,6 @@ S
 #templates/allauth/account/base.html,6/6/66c3ecc501cf1dbf0855aec62690773369caa8f6
 T
 $templates/allauth/account/login.html,9/1/91fd985c16073876666bf3b661c7cb666be5364b
-Y
-)profiles/templates/profiles /profile.html,8/b/8b2f90fcb08dbc8f59c8f1d8f6df9c6693da5e5d
 X
 (profiles/templates/profiles/profile.html,e/7/e703a4c158b43133dde99219266280d8aa5fab94
 A
@@ -132,5 +124,5 @@ A
 products/tests.py,7/3/7320e14c1d2aebd2a97005b341ebdaa5c95a66e9
 C
 products/widgets.py,1/7/17eb27a87fccad0c669f51102dd94ad260d939c7
-…
-Uproducts/templates/products/custom_widget_templates /custom_clearable_file_input.html,5/f/5f8d9a0ab1ce6d5a8c4cf0140006a4cca9016d92
+„
+Tproducts/templates/products/custom_widget_templates/custom_clearable_file_input.html,a/3/a3447c4624f064fde05798c76bcd9645baa5da7f
