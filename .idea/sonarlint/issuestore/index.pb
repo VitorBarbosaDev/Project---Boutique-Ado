@@ -130,3 +130,7 @@ A
 -products/templates/products/edit_product.html,f/c/fc1cd2d24e8aa42f982354f87a0082bee64424fc
 A
 products/tests.py,7/3/7320e14c1d2aebd2a97005b341ebdaa5c95a66e9
+C
+products/widgets.py,1/7/17eb27a87fccad0c669f51102dd94ad260d939c7
+…
+Uproducts/templates/products/custom_widget_templates /custom_clearable_file_input.html,5/f/5f8d9a0ab1ce6d5a8c4cf0140006a4cca9016d92
