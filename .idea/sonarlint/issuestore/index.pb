@@ -126,3 +126,5 @@ A
 products/forms.py,1/8/18290037a6c6f23e022d2baa2e1e1ce35b23ac91
 \
 ,products/templates/products/add_product.html,9/4/944304cb17ebb57945ae4641038bd2d874010644
+]
+-products/templates/products/edit_product.html,f/c/fc1cd2d24e8aa42f982354f87a0082bee64424fc
