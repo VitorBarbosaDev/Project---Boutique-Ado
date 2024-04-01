@@ -1,4 +1,4 @@
 
-³python:S101	"jRename class "StripeWH_Handler" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Τα¨Ηϊÿÿÿÿ8Ψϋ²ι1J$81a7e8b2-1301-435d-b27c-ff2047b86fd3
-wpython:S1481"-Remove the unused local variable "save_info".(ηεΉύÿÿÿÿ8Άιώ²ι1J$e0d4f4c7-c647-4764-be10-bf46f6bd1eb0
-™python:S3776"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ίΪΑ8Ωϋ²ι1J$4a5841f8-4a29-4e69-bc1b-d515fd4985c1
+³python:S101
+"jRename class "StripeWH_Handler" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Τα¨Ηϊÿÿÿÿ8Ψϋ²ι1J$9758f204-ce90-414f-9a62-cd770122817b
+™python:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ίΪΑ8Ωϋ²ι1J$21d74348-cac2-4a9f-ad2d-913d39108942
